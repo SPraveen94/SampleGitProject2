@@ -27,6 +27,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!-- Test Comment -->
 
   <build>
     <finalName>SampleProject2</finalName>
